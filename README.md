@@ -1,7 +1,7 @@
-# werkgroep wegen
+# Werkgroep Wegen
 Beste bezoeker,
 
-Welkom op de samenwerkomgeving van de werkgroep Wegen. De werkgroepen zijn opgezet voor o.a. de inventarisatie van knelpunten en behoeften voor de vormgeving van een samenhangende objectenregistratie.
+Welkom op de samenwerkomgeving van de Werkgroep Wegen. De werkgroepen zijn opgezet voor o.a. de inventarisatie van knelpunten en behoeften voor de vormgeving van een samenhangende objectenregistratie.
 
 Een aantal zaken om rekening mee te houden in het gebruik van deze omgeving:
 -	Iedere werkgroep heeft eigen een aanvoerder. In deze groep is dat ... Voor vragen rondom inhoud, proces en rechten kunt u bij deze persoon terecht. Waar deze aanvoerder taken heeft gedelegeerd kunt u terecht bij de gedelegeerde.
